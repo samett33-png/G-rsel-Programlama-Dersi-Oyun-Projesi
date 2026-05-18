@@ -23,15 +23,15 @@ Her başarılı geçişte skor artar. Engellere çarptığında oyun sona erer.
 
 ## Oyun Mekanikleri
 
-- [] Oyuncu Hareketleri
+- [ ] Oyuncu Hareketleri
 - [x] Rastgele Nesne Üretimi
 - [x] Çarpışma Kontrolü
-- [] Puan Sistemi
-- [] Can Sistemi
-- [] Süre Sistemi
-- [] Kazanma Kaybetme Ekranı
-- [] Ses Efekti
-- [] Menü Ekranı
+- [ ] Puan Sistemi
+- [ ] Can Sistemi
+- [ ] Süre Sistemi
+- [ ] Kazanma Kaybetme Ekranı
+- [ ] Ses Efekti
+- [ ] Menü Ekranı
 - [x] Ekstra Özellik
 
 ## Kullanılan Scriptler
