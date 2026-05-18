@@ -1,11 +1,11 @@
 # G-rsel-Programlama-Dersi-Oyun-Projesi
 ## Öğrenci Bilgileri
 
--Ad Soyad: Samet Güneş
--Öğrenci No: 24660110026
--Ders: Görsel Programlama 3
--Proje Adı: Basit Flappy Bird Oyunu 
--Unity Sürümü: Unity 6.4
+- Ad Soyad: Samet Güneş
+- Öğrenci No: 24660110026
+- Ders: Görsel Programlama 3
+- Proje Adı: Basit Flappy Bird Oyunu 
+- Unity Sürümü: Unity 6.4
 
 ## Oyun Açıklaması
 Eğlence ve pratik amacıyla yapılmış basit bir Flappy Bird oyunu.
@@ -16,10 +16,10 @@ Kuşu kontrol et, engellere çarpmadan ilerle ve en yüksek skoru yapmaya çalı
 Oyunda amaç kuşu kontrol ederek boruların arasından geçmek ve mümkün olduğunca yüksek skor yapmaktır.
 Her başarılı geçişte skor artar. Engellere çarptığında oyun sona erer.
 #Kontroller#
--Hareket: yok
--Zıplama:Mouse Sol Tıkı İle Zıplanır
--Ateş Etme: Yok
--Diğer: Yok
+- Hareket: yok
+- Zıplama:Mouse Sol Tıkı İle Zıplanır
+- Ateş Etme: Yok
+- Diğer: Yok
 
 ## Oyun Mekanikleri
 
